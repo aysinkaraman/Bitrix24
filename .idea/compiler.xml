@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Bitrix24" />
+        <module name="Bitrix24-Online17" />
       </profile>
     </annotationProcessing>
   </component>
